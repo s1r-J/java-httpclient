@@ -5,6 +5,8 @@ Java11で標準APIに追加されたHttpClientと、OSSであるOkHttpの挙動�
 
 Javaアプリからリクエストを送り、Nodejsアプリがリクエストを受け取ってレスポンスをJavaアプリに返します。
 
+記事は[Qiita](https://qiita.com/s1r/items/a1cd37174d4069829531)もしくは[Crieit](https://crieit.net/posts/Java11-HttpClient-204-IOException)を御覧ください。
+
 ## 必要な環境
 
 - Nodejs実行環境
